@@ -15,7 +15,7 @@ A modern, responsive digital business card created with HTML and CSS. This proje
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/yourusername/business-card.git
+   git clone https://github.com/haxnax/Business-Card
    ```
 
 2. Open the project folder and launch the HTML file:
