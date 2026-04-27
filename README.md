@@ -1,4 +1,5 @@
 # 💼 Business Card
+<img width="347" height="568" alt="image" src="https://github.com/user-attachments/assets/4a26d6b8-898f-44d3-bc24-8b17365723cb" />
 
 A modern, responsive digital business card created with HTML and CSS. This project showcases a professional business card design.
 
